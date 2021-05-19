@@ -1,0 +1,8 @@
+model_specific:
+  command: train
+  dataset: "/home/nitheesh/Documents/projects_3/maskrcnnpytorch/pytorch-mask-rcnn/data"
+  year: 2014
+  model: "/home/nitheesh/Documents/projects_3/maskrcnnpytorch/pytorch-mask-rcnn/models/mask_rcnn_coco_0150.pth"
+  logs: "/home/nitheesh/Documents/projects_3/maskrcnnpytorch/pytorch-mask-rcnn/coco20210518T2337"
+  limit: ""
+  download: False
